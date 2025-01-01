@@ -89,6 +89,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bintangsatri4/bintangsatri4/output/snake.svg" alt="Snake animation" />
-
 ###
